@@ -1,0 +1,13 @@
+.menu-bar-container{
+  display: flex;
+  padding: 32px;
+  ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 24px;
+    list-style-type: none;
+  }
+}
+
+

@@ -1,0 +1,17 @@
+.small-card-container{
+  // border: 2px solid white;
+  width: 720px;
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.small-card-title, h1{
+  font-size: 24px;
+}
+
+hr{
+  margin: 24px;
+}

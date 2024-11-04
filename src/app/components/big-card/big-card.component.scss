@@ -1,0 +1,24 @@
+.big-card-container{
+  width: 560px;
+  height: 480px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 8px;
+  padding: 32px;
+  padding-top: 0;
+}
+
+.big-card-picture > img{
+  width: 100%;
+}
+
+.big-card-title{
+  font-size: 1.5vh;
+  line-height: 1.2;
+}
+
+.big-card-description, p{
+  color: aqua;
+}
