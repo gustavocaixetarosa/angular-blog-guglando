@@ -1,5 +1,4 @@
 .small-card-container{
-  // border: 2px solid white;
   width: 720px;
   display: flex;
   flex-direction: row;
@@ -20,5 +19,6 @@ hr{
   img {
     width: 128px;
     height: 128px;
+    object-fit: cover;
   }
 }
